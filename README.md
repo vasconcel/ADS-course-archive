@@ -6,10 +6,7 @@ Repositório contendo projetos desenvolvidos no curso de [Análise e Desenvolvim
 
 ## Estrutura do Repositório
 
-Este repositório é organizado por disciplina, cada uma possuindo um repositório próprio com:
-
-* **README.md:** Visão geral da disciplina, incluindo objetivos, ementa, documentações e materiais complementares.
-* **Subpastas:** Cada atividade possui sua própria pasta, com um README descrevendo os objetivos e o trabalho realizado, além dos arquivos da atividade, como códigos, relatórios  etc.
+Este repositório é organizado por disciplina, cada uma possuindo um repositório próprio com um **README.md** contendo visão geral da disciplina, objetivos, ementa, documentações, atividades e materiais complementares.
 
 ## Seção Semestral
 Para facilitar a organização e a visualização dos materiais, o repositório principal é dividido em seções para cada semestre. Cada seção contém os links para os repositórios das disciplinas cursadas naquele período, permitindo acesso rápido aos materiais de interesse.
