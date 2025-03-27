@@ -15,9 +15,9 @@ This repository acts as a hub. Detailed notes, documentation, activities, syllab
 Content is grouped by academic semester for clarity and ease of navigation. Each section lists the disciplines undertaken during that period, linking to their respective Notion workspaces.
 
 ### Semester 1
+*   [Introduction to Distance Learning](https://sky-clock-04e.notion.site/Introduction-to-Distance-Learning-1c30cf47793880cdb174fe38c809ee6f?pvs=4)
 *   [Fundamentals of Algorithms](https://sky-clock-04e.notion.site/Fundamentals-of-Algorithms-1c30cf47793880b6a207e850d052691f?pvs=4)
 *   [Introduction to Computational Logic](https://sky-clock-04e.notion.site/Introduction-to-Computational-Logic-1c30cf47793880169b10dbe0c9715ef9?pvs=4)
-*   [Introduction to Distance Learning]([Notion Page - TBD])
 *   [Database Modeling]([Notion Page - TBD])
 *   [Systems Analysis and Modeling]([Notion Page - TBD])
 *   [Ethics and Legislation in Computing]([Notion Page - TBD])
