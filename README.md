@@ -15,7 +15,7 @@ This repository acts as a hub. Detailed notes, documentation, activities, syllab
 Content is grouped by academic semester for clarity and ease of navigation. Each section lists the disciplines undertaken during that period, linking to their respective Notion workspaces.
 
 ### Semester 1
-*   [Fundamentals of Algorithms]([Notion Page - TBD])
+*   [Fundamentals of Algorithms](https://sky-clock-04e.notion.site/Fundamentals-of-Algorithms-1c30cf47793880b6a207e850d052691f?pvs=4)
 *   [Introduction to Computational Logic]([Notion Page - TBD])
 *   [Introduction to Distance Learning]([Notion Page - TBD])
 *   [Database Modeling]([Notion Page - TBD])
