@@ -1,69 +1,72 @@
-# Análise e Desenvolvimento de Sistemas
+# Analysis & Development of Systems
 
-## Objetivo
+## Overview
 
-Repositório contendo projetos desenvolvidos no curso de [Análise e Desenvolvimento de Sistemas](https://www.ufca.edu.br/cursos/graduacao/ads/) pela [Universidade Federal do Cariri](https://www.ufca.edu.br/). Os materiais abrangem diferentes áreas da computação, como algoritmos e lógica de programação, banco de dados, desenvolvimento web e desenvolvimento mobile, além de abordar conceitos de engenharia de software e gerenciamento de projetos.
+Repository serving as a central index for projects and learning materials developed during the [Analysis & Development of Systems](https://www.ufca.edu.br/cursos/graduacao/ads/) course at the [Universidade Federal do Cariri (UFCA)](https://www.ufca.edu.br/). The curriculum covers diverse areas of computing, including algorithms, programming logic, databases, web & mobile development, software engineering concepts, and project management.
 
-## Estrutura do Repositório
+## Structure_&_Access
 
-Este repositório é organizado por disciplina, cada uma possuindo um repositório próprio com um **README.md** contendo visão geral da disciplina, objetivos, ementa, documentações, atividades e materiais complementares.
+This repository acts as a hub. Detailed notes, documentation, activities, syllabus information, and supplementary materials for each discipline are organized and maintained externally on **Notion**. The links provided below in the semester sections grant direct access to these dedicated Notion pages.
 
-## Seção Semestral
-Para facilitar a organização e a visualização dos materiais, o repositório principal é dividido em seções para cada semestre. Cada seção contém os links para os repositórios das disciplinas cursadas naquele período, permitindo acesso rápido aos materiais de interesse.
- 
-### Semestre 1
-* [Fundamentos de Algoritmos](https://github.com/vasconcel/ADS-fundamentals-algorithms)
-  
-* [Introdução à Lógica Computacional](https://github.com/vasconcel/ADS-computational-logic)
-  
-* Introdução à EaD
-  
-* Modelagem de Banco de Dados
-  
-* [Análise e Modelagem de Sistemas](https://github.com/vasconcel/ADS-system-analysis-modeling)
-  
-* Ética e Legislação em Computação
+*(Note: Notion links are currently placeholders [Notion Page - TBD] as content migration is in progress.)*
 
-### Semestre 2
-* Desenvolvimento em Nuvem
-  
-* [Estrutura de Dados](https://github.com/vasconcel/ADS-data-structures)
-  
-* [Interface Humano-Computador](https://github.com/vasconcel/ADS-human-computer-interface)
-  
-* Programação Orientada a Objetos
-  
-* [Projeto de Banco de Dados](https://github.com/vasconcel/ADS-database-project)
-  
-* [Redes e Sistemas Distribuídos](https://github.com/vasconcel/ADS-distributed-networks-systems)
-  
+## Semester_Breakdown
 
-## Projeto Integrado
-O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres. Por meio de projetos práticos e interdisciplinares, integramos os conhecimentos adquiridos ao longo do curso.
+Content is grouped by academic semester for clarity and ease of navigation. Each section lists the disciplines undertaken during that period, linking to their respective Notion workspaces.
 
-* [Projeto Integrado](https://github.com/vasconcel/ADS-integrated-project)
+### Semester 1
+*   [Fundamentals of Algorithms]([Notion Page - TBD])
+*   [Introduction to Computational Logic]([Notion Page - TBD])
+*   [Introduction to Distance Learning]([Notion Page - TBD])
+*   [Database Modeling]([Notion Page - TBD])
+*   [Systems Analysis and Modeling]([Notion Page - TBD])
+*   [Ethics and Legislation in Computing]([Notion Page - TBD])
 
-## 🌐 Esquema dos Diretórios
+### Semester 2
+*   [Cloud Development]([Notion Page - TBD])
+*   [Data Structures]([Notion Page - TBD])
+*   [Human-Computer Interface]([Notion Page - TBD])
+*   [Object-Oriented Programming]([Notion Page - TBD])
+*   [Database Project]([Notion Page - TBD])
+*   [Networks and Distributed Systems]([Notion Page - TBD])
+
+### Semester 3
+*   [Innovation and Entrepreneurship]([Notion Page - TBD])
+*   [Agile Project Management]([Notion Page - TBD])
+*   [Secure Software Development]([Notion Page - TBD])
+*   [Machine Learning]([Notion Page - TBD])
+*   [Software Engineering]([Notion Page - TBD])
+*   [Interface Design and User Experience]([Notion Page - TBD])
+*   [Web Development]([Notion Page - TBD])
+
+*(Further semesters will be added as the course progresses.)*
+
+## Integrated_Project
+
+The **Integrated Project** is a mandatory, recurring component across all semesters. It focuses on applying concepts acquired throughout the course via practical, interdisciplinary project work.
+
+*   [Integrated Project Hub (Notion)]([Notion Page - TBD])
+
+## Directory_Schema_Illustration
+
+While primary content resides on Notion, this repository might host project code or specific artifacts. The general structure aims for clarity:
 
 ```
-college-repository/
-├── README.md
+systems-analysis-development/ (This Repo)
 │
-├── ADS-projeto-integrado/
-│   ├── README.md
-│   ├── projeto-integrado-I/
-│   ├── projeto-integrado-II/
-│   └── ...
+├── README.md  (Index & Overview)
 │
-├── ADS-fundamentos-algoritmos/
-│   ├── README.md
-│   ├── python-conditional-statement/
-│   └── python-loop-statement/
-│   └── ...
+├── integrated-project-code/ (Optional: Code for integrated projects)
+│   ├── semester-I/
+│   └── semester-II/
 │
-└── ... (outras disciplinas)
+└── specific-discipline-code/ (Optional: Code for specific assignments)
+    ├── data-structures/
+    └── oop/
+
+// Note: Core documentation, notes, and learning logs are primarily on Notion.
 ```
 
-## Licença
+## License
 
-Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
+This repository structure and any contained code (unless otherwise specified within subdirectories) are licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Content on linked Notion pages may be subject to its own terms or copyright.
