@@ -20,7 +20,7 @@ Content is grouped by academic semester for clarity and ease of navigation. Each
 *   [Introduction to Computational Logic](https://sky-clock-04e.notion.site/Introduction-to-Computational-Logic-1c30cf47793880169b10dbe0c9715ef9?pvs=4)
 *   [Database Modeling](https://sky-clock-04e.notion.site/Database-Modeling-1c30cf47793880c991fffda429a11d08?pvs=4)
 *   [Analysis and Modeling of Systems](https://sky-clock-04e.notion.site/Analysis-and-Modeling-of-Systems-1c30cf477938803298fdeed53cc28aeb?pvs=4)
-*   [Ethics and Legislation in Computing]([Notion Page - TBD])
+*   [Ethics and Legislation in Computing](https://sky-clock-04e.notion.site/Ethics-and-Legislation-in-Computing-1c30cf47793880d18251cee83e28b0fb?pvs=4)
 
 ### Semester 2
 *   [Cloud Development]([Notion Page - TBD])
