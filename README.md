@@ -26,8 +26,8 @@ Content is grouped by academic semester for clarity and ease of navigation. Each
 *   [Object-Oriented Programming](https://sky-clock-04e.notion.site/Object-Oriented-Programming-1c30cf47793880228ac6efbc52aff4c3?pvs=4)
 *   [Data Structures](https://sky-clock-04e.notion.site/Data-Structures-1c30cf477938809199e8c2acc70101ec?pvs=4)
 *   [Cloud Development](https://sky-clock-04e.notion.site/Cloud-Development-1c30cf47793880caa4b6e364cee4a781?pvs=4)
+*   [Database Project](https://sky-clock-04e.notion.site/Database-Project-1c30cf47793880bfb1dcd7177f774d96?pvs=4)
 *   [Human-Computer Interface]([Notion Page - TBD])
-*   [Database Project]([Notion Page - TBD])
 *   [Networks and Distributed Systems]([Notion Page - TBD])
 
 ### Semester 3
