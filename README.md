@@ -23,10 +23,10 @@ Content is grouped by academic semester for clarity and ease of navigation. Each
 *   [Ethics and Legislation in Computing](https://sky-clock-04e.notion.site/Ethics-and-Legislation-in-Computing-1c30cf47793880d18251cee83e28b0fb?pvs=4)
 
 ### Semester 2
+*   [Object-Oriented Programming](https://sky-clock-04e.notion.site/Object-Oriented-Programming-1c30cf47793880228ac6efbc52aff4c3?pvs=4)
 *   [Data Structures](https://sky-clock-04e.notion.site/Data-Structures-1c30cf477938809199e8c2acc70101ec?pvs=4)
 *   [Cloud Development]([Notion Page - TBD])
 *   [Human-Computer Interface]([Notion Page - TBD])
-*   [Object-Oriented Programming]([Notion Page - TBD])
 *   [Database Project]([Notion Page - TBD])
 *   [Networks and Distributed Systems]([Notion Page - TBD])
 
