@@ -28,7 +28,7 @@ Content is grouped by academic semester for clarity and ease of navigation. Each
 *   [Cloud Development](https://sky-clock-04e.notion.site/Cloud-Development-1c30cf47793880caa4b6e364cee4a781?pvs=4)
 *   [Database Project](https://sky-clock-04e.notion.site/Database-Project-1c30cf47793880bfb1dcd7177f774d96?pvs=4)
 *   [Human-Computer Interface](https://sky-clock-04e.notion.site/Human-Computer-Interface-1c30cf47793880fc8ae0d76e86211189?pvs=4)
-*   [Networks and Distributed Systems]([Notion Page - TBD])
+*   [Networks and Distributed Systems](https://sky-clock-04e.notion.site/Networks-and-Distributed-Systems-1c30cf4779388007890bc25744c8b297?pvs=4)
 
 ### Semester 3
 *   [Innovation and Entrepreneurship]([Notion Page - TBD])
