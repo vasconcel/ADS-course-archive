@@ -33,8 +33,8 @@ Content is grouped by academic semester for clarity and ease of navigation. Each
 ### Semester 3
 *   [Interface Design and User Experience](https://sky-clock-04e.notion.site/Interface-Design-and-User-Experience-1c30cf47793880959455c66ce44345ac?pvs=4)
 *   [Web Development](https://sky-clock-04e.notion.site/Web-Development-1c30cf4779388034825ae19553a290dd?pvs=4)
+*   [Agile Project Management](https://sky-clock-04e.notion.site/Agile-Project-Management-1c30cf477938807cbae8f8f12d529fda?pvs=4)
 *   [Innovation and Entrepreneurship]([Notion Page - TBD])
-*   [Agile Project Management]([Notion Page - TBD])
 *   [Secure Software Development]([Notion Page - TBD])
 *   [Machine Learning]([Notion Page - TBD])
 *   [Software Engineering]([Notion Page - TBD])
