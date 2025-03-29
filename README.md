@@ -1,53 +1,32 @@
-# Analysis & Development of Systems - UFCA
+# Analysis & Development of Systems @ UFCA
+*A Personal Learning Compendium & Navigation Hub*
 
-## Overview
+## Purpose & Approach
 
-This repository serves as a central index for the learning journey, materials, and potential code artifacts developed throughout the [Analysis & Development of Systems](https://www.ufca.edu.br/cursos/graduacao/ads/) (ADS) course at the [Universidade Federal do Cariri (UFCA)](https://www.ufca.edu.br/). The curriculum encompasses algorithms, programming logic, databases, web/mobile development, software engineering, and project management.
+This repository serves as the **central navigation hub** for my coursework, notes, and projects from the **Analysis & Development of Systems (ADS)** program at the **Universidade Federal do Cariri (UFCA)**.
 
-All detailed notes, syllabus information, activities, and comprehensive learning logs are maintained externally on **Notion**.
+The comprehensive, detailed content – including notes, summaries, activities, syllabi, and learning reflections – is meticulously organized and maintained externally on **Notion**. This structure keeps this repository clean and focused solely on providing clear entry points to the structured knowledge base.
 
-<p align="left">
-  <a target="_blank" href="https://sky-clock-04e.notion.site/Analysis-Development-of-Systems-1920cf47793880baad7fcff13d736b55?pvs=4"><img src="https://img.shields.io/badge/View%20Full%20Logs-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="View Full Logs on Notion"></a>
-  <!-- ^^^ Replace Notion link with the actual top-level Notion page for the ADS course ^^^ -->
-</p>
+**The primary goal is to facilitate efficient review and retrieval of information studied across the semesters.**
 
-## Course_Modules
+## Notion Knowledge Base Access
 
-The course content is organized by academic semester. Each entry below links directly to the dedicated Notion page containing detailed materials for that specific discipline/module.
+[![Browse Full Course Logs - Notion](https://img.shields.io/badge/Browse%20Full%20Course%20Logs-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://sky-clock-04e.notion.site/Analysis-Development-of-Systems-1920cf47793880baad7fcff13d736b55?pvs=4)
 
-### Semester 1
-*   Introduction to Distance Learning: [Notion Log](https://sky-clock-04e.notion.site/Introduction-to-Distance-Learning-1c30cf47793880cdb174fe38c809ee6f?pvs=4)
-*   Fundamentals of Algorithms: [Notion Log](https://sky-clock-04e.notion.site/Fundamentals-of-Algorithms-1c30cf47793880b6a207e850d052691f?pvs=4)
-*   Introduction to Computational Logic: [Notion Log](https://sky-clock-04e.notion.site/Introduction-to-Computational-Logic-1c30cf47793880169b10dbe0c9715ef9?pvs=4)
-*   Database Modeling: [Notion Log](https://sky-clock-04e.notion.site/Database-Modeling-1c30cf47793880c991fffda429a11d08?pvs=4)
-*   Analysis and Modeling of Systems: [Notion Log](https://sky-clock-04e.notion.site/Analysis-and-Modeling-of-Systems-1c30cf477938803298fdeed53cc28aeb?pvs=4)
-*   Ethics and Legislation in Computing: [Notion Log](https://sky-clock-04e.notion.site/Ethics-and-Legislation-in-Computing-1c30cf47793880d18251cee83e28b0fb?pvs=4)
+## Direct Navigation Links
 
-### Semester 2
-*   Object-Oriented Programming: [Notion Log](https://sky-clock-04e.notion.site/Object-Oriented-Programming-1c30cf47793880228ac6efbc52aff4c3?pvs=4)
-*   Data Structures: [Notion Log](https://sky-clock-04e.notion.site/Data-Structures-1c30cf477938809199e8c2acc70101ec?pvs=4)
-*   Cloud Development: [Notion Log](https://sky-clock-04e.notion.site/Cloud-Development-1c30cf47793880caa4b6e364cee4a781?pvs=4)
-*   Database Project: [Notion Log](https://sky-clock-04e.notion.site/Database-Project-1c30cf47793880bfb1dcd7177f774d96?pvs=4)
-*   Human-Computer Interface: [Notion Log](https://sky-clock-04e.notion.site/Human-Computer-Interface-1c30cf47793880fc8ae0d76e86211189?pvs=4)
-*   Networks and Distributed Systems: [Notion Log](https://sky-clock-04e.notion.site/Networks-and-Distributed-Systems-1c30cf4779388007890bc25744c8b297?pvs=4)
+Navigate directly to the consolidated materials for each period:
 
-### Semester 3
-*   Interface Design and User Experience: [Notion Log](https://sky-clock-04e.notion.site/Interface-Design-and-User-Experience-1c30cf47793880959455c66ce44345ac?pvs=4)
-*   Web Development: [Notion Log](https://sky-clock-04e.notion.site/Web-Development-1c30cf4779388034825ae19553a290dd?pvs=4)
-*   Agile Project Management: [Notion Log](https://sky-clock-04e.notion.site/Agile-Project-Management-1c30cf477938807cbae8f8f12d529fda?pvs=4)
-*   Innovation and Entrepreneurship: [Notion Log](https://sky-clock-04e.notion.site/Innovation-and-Entrepreneurship-1c30cf47793880f98491f74ad628c040?pvs=4)
-*   Secure Software Development: [Notion Log - TBD]
-*   Machine Learning: [Notion Log - TBD]
-*   Software Engineering: [Notion Log - TBD]
+*   ✅ **[Semester 1](https://www.notion.so/1c30cf477938807bb5e0d9fb25d1e10f?pvs=21)** 
+*   ✅ **[Semester 2](https://www.notion.so/1c30cf477938801db10df9997a8c571b?pvs=21)** 
+*   ⏳ **[Semester 3](https://www.notion.so/1c30cf47793880d78a9bc7ac05a4d2d3?pvs=21)** 
+*   📅 **[Semester 4]()**
+*   🚀 **[Integrated Project Hub](https://www.notion.so/1c30cf47793880999ec9e541bd50fbb2?pvs=21)**
 
-*(Further semesters will be indexed here as the course progresses.)*
+## Repository Content Note
 
-## Integrated_Project
-
-A core, recurring component across semesters, the **Integrated Project** applies learned concepts through practical, interdisciplinary teamwork.
-
-*   Integrated Project Hub: [Notion Log - TBD]
+This GitHub repository primarily acts as an index. **Detailed notes, explanations, and most code examples reside on Notion.** Specific, larger code artifacts, especially for Integrated Projects, *may* be hosted here in dedicated subdirectories for version control purposes, but Notion remains the primary source of truth for coursework.
 
 ## License
 
-This repository structure and any contained code (unless otherwise specified within subdirectories) are licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Content on linked Notion pages is governed by Notion's terms and any specific sharing permissions set.
+The structure and README of this repository are licensed under the [MIT License](LICENSE). The content hosted on the linked Notion pages is subject to Notion's terms of service and the specific sharing permissions configured there.
