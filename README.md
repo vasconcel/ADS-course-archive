@@ -11,7 +11,7 @@
 
 Access the detailed logs on Notion or browse the corresponding repository structure.
 
-[![Browse Full Course Logs - Notion](https://img.shields.io/badge/Browse%20Full%20Course%20Logs-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://sky-clock-04e.notion.site/Analysis-Development-of-Systems-1c30cf4779388077b677d4f2629328e7?pvs=4)
+[![Browse Full Course Logs - Notion](https://img.shields.io/badge/Browse%20Full%20Course%20Logs-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://sky-clock-04e.notion.site/Analysis-Development-of-Systems-1920cf47793880baad7fcff13d736b55?pvs=4)
 
 *   ✅ **[Semester 1]**: ([View Notes on Notion](https://www.notion.so/1c30cf477938807bb5e0d9fb25d1e10f?pvs=21)) - `Completed`
 *   ✅ **[Semester 2]**: ([View Notes on Notion](https://www.notion.so/1c30cf477938801db10df9997a8c571b?pvs=21)) - `Completed`
