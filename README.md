@@ -13,11 +13,11 @@ Access the detailed logs on Notion or browse the corresponding repository struct
 
 [![Browse Full Course Logs - Notion](https://img.shields.io/badge/Browse%20Full%20Course%20Logs-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://sky-clock-04e.notion.site/Analysis-Development-of-Systems-1920cf47793880baad7fcff13d736b55?pvs=4)
 
-*   ✅ **[Semester 1]**: ([View Notes on Notion](https://www.notion.so/1c30cf477938807bb5e0d9fb25d1e10f?pvs=21)) - `Completed`
-*   ✅ **[Semester 2]**: ([View Notes on Notion](https://www.notion.so/1c30cf477938801db10df9997a8c571b?pvs=21)) - `Completed`
-*   ⏳ **[Semester 3]**: ([View Notes on Notion](https://www.notion.so/1c30cf47793880d78a9bc7ac05a4d2d3?pvs=21)) - `In Progress`
-*   📅 **[Semester 4]**: ([Notion Link Placeholder]()) - `Planned`
-*   🚀 **[Integrated Project Hub](./Integrated_Project/)**: ([View Hub on Notion](https://www.notion.so/1c30cf47793880999ec9e541bd50fbb2?pvs=21)) - `Cross-Semester`
+*   ✅ **Semester 1**: ([View Notes on Notion](https://www.notion.so/1c30cf477938807bb5e0d9fb25d1e10f?pvs=21)) - `Completed`
+*   ✅ **Semester 2**: ([View Notes on Notion](https://www.notion.so/1c30cf477938801db10df9997a8c571b?pvs=21)) - `Completed`
+*   ⏳ **Semester 3**: ([View Notes on Notion](https://www.notion.so/1c30cf47793880d78a9bc7ac05a4d2d3?pvs=21)) - `In Progress`
+*   📅 **Semester 4**: ([Notion Link Placeholder]()) - `Planned`
+*   🚀 **Integrated Project Hub**: ([View Hub on Notion](https://www.notion.so/1c30cf47793880999ec9e541bd50fbb2?pvs=21)) - `Cross-Semester`
 
 ## Repository_Internals
 *   **Role:** This GitHub repository serves as a structured **index** and **entry point** to the main knowledge base.
