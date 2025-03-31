@@ -4,7 +4,6 @@
 *   **Course:** Analysis & Development of Systems (ADS)
 *   **Institution:** [Universidade Federal do Cariri (UFCA)](https://ufca.edu.br/)
 *   **Purpose:** Personal Learning Compendium & Navigation Hub
-*   **Primary_Storage:** [Notion Knowledge Base](https://sky-clock-04e.notion.site/Analysis-Development-of-Systems-1c30cf4779388077b677d4f2629328e7?pvs=4) (`External`)
 *   **Status:** Actively Maintained
 
 ## Navigation
