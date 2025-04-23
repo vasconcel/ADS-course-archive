@@ -1,10 +1,9 @@
-# Analysis & Development of Systems
+# Systems Analysis and Development Archive
 
 ## Overview
 
-*   **Course:** Analysis & Development of Systems (ADS)
+*   **Degree:** Associate's degree
 *   **Institution:** [Universidade Federal do Cariri (UFCA)](https://ufca.edu.br/)
-*   **Purpose:** Tracking the learning path for the ADS course. Primary notes on Notion.
 *   **Status:** Actively Maintained
 
 ## Study Log
